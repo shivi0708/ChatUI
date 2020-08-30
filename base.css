@@ -90,7 +90,7 @@ hr{
 .chat {
   width: 490px;
   float: left;
-  background: honeydew;
+  background: #dfefdf;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   color: #424552;
@@ -191,9 +191,9 @@ hr{
   margin-bottom: 10px;
   border-radius: 4em;
   resize: none;
-  background: black;
-  color:white;
-  opacity: 0.5;
+  background: #a8b3a8;
+  color:black;
+  /* opacity: 0.5; */
 }
 
 .chat .chat-message button {
@@ -204,7 +204,7 @@ hr{
   border: none;
   cursor: pointer;
   font-weight: bold;
-  background: #F2F5F8;
+  background: #dfefdf ;
 }
 .chat .chat-message button:hover {
   color: #75b1e8;
